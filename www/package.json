@@ -20,7 +20,7 @@
     "gzip-size": "^4.1.0",
     "html2canvas": "^1.0.0-alpha.9",
     "mkdirp": "^0.5.1",
-    "typography": "^0.16.6",
+    "typography": "^0.16.21",
     "typography-theme-github": "^0.15.10"
   },
   "license": "MIT",
