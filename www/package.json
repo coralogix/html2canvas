@@ -21,7 +21,7 @@
     "html2canvas": "^1.0.0-alpha.9",
     "mkdirp": "^0.5.1",
     "typography": "^0.16.6",
-    "typography-theme-github": "^0.15.10"
+    "typography-theme-github": "^0.16.19"
   },
   "license": "MIT",
   "main": "n/a",
