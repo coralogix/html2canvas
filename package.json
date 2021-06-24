@@ -86,6 +86,6 @@
   "homepage": "https://html2canvas.hertzen.com",
   "license": "MIT",
   "dependencies": {
-    "css-line-break": "1.0.1"
+    "css-line-break": "1.1.1"
   }
 }
